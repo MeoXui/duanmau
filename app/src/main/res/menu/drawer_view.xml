@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_phieuMuon"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/quan_ly_phieu_muon"/>
+
+        <item
+            android:id="@+id/nav_loaiSach"
+            android:icon="@drawable/baseline_filter_none_24"
+            android:title="@string/quan_ly_loai_sach"/>
+
+        <item
+            android:id="@+id/nav_sach"
+            android:icon="@drawable/baseline_picture_as_pdf_24"
+            android:title="@string/quan_ly_sach"/>
+
+        <item
+            android:id="@+id/nav_thanhVien"
+            android:icon="@drawable/baseline_people_alt_24"
+            android:title="@string/quan_ly_thanh_vien"/>
+
+        <item android:title="@string/thong_ke">
+            <menu>
+                <item
+                    android:id="@+id/sub_top"
+                    android:icon="@drawable/baseline_vertical_align_top_24"
+                    android:title="@string/top_10_sach_muon_nhieu_nhat"/>
+
+                <item
+                    android:id="@+id/sub_doanhThu"
+                    android:icon="@drawable/baseline_attach_money_24"
+                    android:title="@string/doanh_thu"/>
+            </menu>
+        </item>
+
+        <item android:title="@string/nguoi_dung">
+            <menu>
+                <item
+                    android:id="@+id/sub_addUser"
+                    android:icon="@drawable/baseline_person_add_24"
+                    android:visible="false"
+                    android:title="@string/them_nguoi_dung"/>
+                <item
+                    android:id="@+id/sub_pass"
+                    android:icon="@drawable/baseline_vpn_key_24"
+                    android:title="@string/doi_mat_khau"/>
+                <item
+                    android:id="@+id/sub_logout"
+                    android:icon="@drawable/baseline_logout_24"
+                    android:title="@string/dang_xuat"/>
+            </menu>
+        </item>
+    </group>
+</menu>

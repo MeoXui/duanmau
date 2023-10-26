@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Du an mau</string>
+    <string name="chao_mung">Chào mừng!</string>
+    <string name="un_hit">Tên đăng nhập</string>
+    <string name="pw_hit">Mật khẩu</string>
+    <string name="luu_mat_khau">Lưu mật khẩu</string>
+    <string name="dang_nhap">Đang nhập</string>
+    <string name="huy">Hủy</string>
+    <string name="quan_ly_phieu_muon">Quản lý phiếu mượn</string>
+    <string name="quan_ly_loai_sach">Quản lý loại sách</string>
+    <string name="quan_ly_sach">Quản lý sách</string>
+    <string name="quan_ly_thanh_vien">Quản lý thành viên</string>
+    <string name="thong_ke">Thống kê</string>
+    <string name="top_10_sach_muon_nhieu_nhat">10 sách mượn nhiều nhất</string>
+    <string name="doanh_thu">Doanh Thu</string>
+    <string name="nguoi_dung">Người dùng</string>
+    <string name="them_nguoi_dung">Thêm người dùng</string>
+    <string name="doi_mat_khau">Đổi mật khẩu</string>
+    <string name="dang_xuat">Đăng xuất</string>
+    <string name="welcome">Welcome</string>
+</resources>
